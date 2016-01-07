@@ -4,9 +4,5 @@ test:
     override:
         - (./gradlew cC):
             timeout: 360
-            
-            
-runBuild:
-    override:
         - (./gradlew assemble):
             timeout: 360
