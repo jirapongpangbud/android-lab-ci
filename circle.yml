@@ -10,6 +10,5 @@ test:
     - circle-android wait-for-boot
     # run tests  against the emulator.
     - ./gradlew connectedAndroidTest
-    - cp -r android-lab-ci/build/outputs $CIRCLE_ARTIFACTS
     - ./gradlew assemble
     
