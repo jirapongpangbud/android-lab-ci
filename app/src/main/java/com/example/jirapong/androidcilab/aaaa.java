@@ -6,6 +6,7 @@ package com.example.jirapong.androidcilab;
 public class aaaa {
 
     public static Boolean labTest(){
+        
         return true;
     }
 }
