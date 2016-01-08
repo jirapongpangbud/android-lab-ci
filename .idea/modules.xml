@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AndroidCiLab.iml" filepath="$PROJECT_DIR$/AndroidCiLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-lab-ci.iml" filepath="$PROJECT_DIR$/android-lab-ci.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
